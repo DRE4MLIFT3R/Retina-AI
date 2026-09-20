@@ -477,6 +477,28 @@ GitHub: [@DRE4MLIFT3R](https://github.com/DRE4MLIFT3R)
 
 ---
 
+## 📸 Application Screenshots
+
+### 🔐 Authentication
+
+![RetinaAI Login](screenshots/login.png)
+
+### 🏠 User Dashboard
+
+![RetinaAI Dashboard](screenshots/dashboard.png)
+
+### 🤖 Prediction Result
+
+![RetinaAI Prediction](screenshots/prediction.png)
+
+### 🔥 Grad-CAM Explainability
+
+![Grad-CAM Visualization](screenshots/gradcam.png)
+
+### 🛡️ Admin Dashboard
+
+![RetinaAI Admin Dashboard](screenshots/admin-dashboard.png)
+
 ## 📄 License
 
 This project is intended for **educational and research purposes**.
