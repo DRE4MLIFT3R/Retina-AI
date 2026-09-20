@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+python-multipart
+PyJWT
+passlib==1.7.4
+bcrypt==4.0.1
+torch
+torchvision
+pillow
+numpy
+scikit-learn
+opencv-python
